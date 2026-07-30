@@ -1,1 +1,1 @@
-This is assests url : https://iardo-assets.pages.dev/
+This is assets url : https://iardo-assets.pages.dev/
